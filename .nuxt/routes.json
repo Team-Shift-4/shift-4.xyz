@@ -1,5 +1,33 @@
 [
   {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_2d223e9c"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/portfolio.vue",
+    "chunkName": "pages/portfolio",
+    "_name": "_4a021f68"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/service.vue",
+    "chunkName": "pages/service",
+    "_name": "_1464b756"
+  },
+  {
+    "name": "wiki",
+    "path": "/wiki",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/wiki.vue",
+    "chunkName": "pages/wiki",
+    "_name": "_6d04ac80"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/index.vue",
