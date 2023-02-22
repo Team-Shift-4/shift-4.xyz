@@ -95,3 +95,6 @@ code
 
 dev.js
 node_modules
+
+.nuxt
+*.log
