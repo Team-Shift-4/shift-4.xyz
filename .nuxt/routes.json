@@ -2,36 +2,36 @@
   {
     "name": "blog",
     "path": "/blog",
-    "component": "C:\\\\Users\\\\PC\\\\Documents\\\\GitHub\\\\shift-4.xyz\\\\pages\\\\blog.vue",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/blog.vue",
     "chunkName": "pages/blog",
-    "_name": "_1f0edb92"
+    "_name": "_2d223e9c"
   },
   {
     "name": "portfolio",
     "path": "/portfolio",
-    "component": "C:\\\\Users\\\\PC\\\\Documents\\\\GitHub\\\\shift-4.xyz\\\\pages\\\\portfolio.vue",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/portfolio.vue",
     "chunkName": "pages/portfolio",
-    "_name": "_2d539903"
+    "_name": "_4a021f68"
   },
   {
     "name": "service",
     "path": "/service",
-    "component": "C:\\\\Users\\\\PC\\\\Documents\\\\GitHub\\\\shift-4.xyz\\\\pages\\\\service.vue",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/service.vue",
     "chunkName": "pages/service",
-    "_name": "_12526ea0"
+    "_name": "_1464b756"
   },
   {
     "name": "wiki",
     "path": "/wiki",
-    "component": "C:\\\\Users\\\\PC\\\\Documents\\\\GitHub\\\\shift-4.xyz\\\\pages\\\\wiki.vue",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/wiki.vue",
     "chunkName": "pages/wiki",
-    "_name": "_5ef14976"
+    "_name": "_6d04ac80"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\PC\\\\Documents\\\\GitHub\\\\shift-4.xyz\\\\pages\\\\index.vue",
+    "component": "/Users/jik/Documents/GitHub/shift-4.xyz/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_92421de6"
+    "_name": "_469b1c1c"
   }
 ]
